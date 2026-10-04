@@ -1,0 +1,21 @@
+{
+    "BASE": "https://racebikebitz.com/",
+    "BRAND_LISTING": "https://racebikebitz.com/Samco-Sport",
+    "OUTPUT_CSV": "racebikebitz_Data.csv",
+    "HEADERS": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+        "Accept-Language": "en-GB,en;q=0.9"
+    },
+    "CATEGORIES": [
+        {"name": "Adventure Bike Hose Kits", "url": "https://racebikebitz.com/adventure-bike-hose-kits-silicone-samco-sport-hoses"},
+        {"name": "Harley-Davidson Engine Oil & Oil Cooler Hose Kits", "url": "https://racebikebitz.com/harley-davidson-samco-sport-silicone-oil-cooler-engine-oil-hose-kits"},
+        {"name": "ATV, Quad Bike & UTV Hose Kits", "url": "https://racebikebitz.com/ATV-Quad-Bike-Samco-Silicone-Kits"},
+        {"name": "Trials Bike Hose Kits", "url": "https://racebikebitz.com/Samco-Sport-Trials-Hoses"},
+        {"name": "Scooter Hose Kits", "url": "https://racebikebitz.com/Scooter-samco-sport-hoses"},
+        {"name": "Hose Clamp Kits", "url": "https://racebikebitz.com/SamcoSport-Hose-Clamp-Kits"},
+        {"name": "Coolant & Antifreeze", "url": "https://racebikebitz.com/hawk-waterless-motorcycle-coolant"},
+        {"name": "Street, Road & Race Motorcycle Hose Kits", "url": "https://racebikebitz.com/street-bike-hose-kits"},
+        {"name": "Motocross, Dirt & Off Road Hose Kits", "url": "https://racebikebitz.com/samco-sport-motocross-enduro-hose-kits"}
+    ]
+}
